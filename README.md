@@ -11,4 +11,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0067-add-binary/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0067-add-binary/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
