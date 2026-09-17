@@ -1,19 +1,15 @@
-#py3
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        def dfs(node):
-            if not node:
-                return 0
+        
+        def dfs(root):
+            if not root:
+                return [True, 0]
             
-            left = dfs(node.left)
-            if left == -1: return -1
+            left_balanced, left_height = dfs(root.left)
+            right_balanced, right_height = dfs(root.right)
             
-            right = dfs(node.right)
-            if right == -1: return -1
+            is_balanced = left_balanced and right_balanced and abs(left_height - right_height) <= 1
             
-            if abs(left - right) > 1:
-                return -1
-            
-            return 1 + max(left, right)
-            
-        return dfs(root) != -1
+            return [is_balanced, 1 + max(left_height, right_height)]
+        
+        return dfs(root)[0]
