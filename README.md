@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0001-two-sum/) | Easy |
+| [0118-pascals-triangle](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0118-pascals-triangle/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,4 +40,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0110-balanced-binary-tree/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
