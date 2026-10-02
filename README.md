@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0001-two-sum/) | Easy |
 | [0118-pascals-triangle](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0268-missing-number/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
