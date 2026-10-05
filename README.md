@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0067-add-binary/) | Easy |
+| [0189-rotate-array](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -89,4 +91,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
