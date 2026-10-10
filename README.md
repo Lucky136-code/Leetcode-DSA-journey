@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +95,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
