@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0118-pascals-triangle/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
