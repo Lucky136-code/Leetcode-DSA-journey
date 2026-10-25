@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0006-zigzag-conversion/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0014-longest-common-prefix/) | Easy |
 | [0067-add-binary](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0242-valid-anagram/) | Easy |
@@ -108,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0283-move-zeroes/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
