@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0006-zigzag-conversion/) | Medium |
 | [0067-add-binary](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0067-add-binary/) | Easy |
+| [0125-valid-palindrome](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0242-valid-anagram/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Lucky136-code/Leetcode-DSA-journey/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
